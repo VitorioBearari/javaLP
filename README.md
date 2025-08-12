@@ -1,2 +1,2 @@
-# javaLP
-repositório para aula de LP
+# Repositório para aula de Linguagem de Programação 
+Este repositório tem como propósito armazenar meus primeiros scripts em java  
